@@ -1,5 +1,5 @@
 # 4. Version Control
-- This is the original version
+
 - Why use version control
 - Solo use of version control
 - Publishing your code to GitHub
